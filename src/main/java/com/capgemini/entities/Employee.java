@@ -15,5 +15,6 @@ public class Employee {
 	private Integer id;
 	private String name;
 	private String email;
+	private String hai;
 
 }
